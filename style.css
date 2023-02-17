@@ -1,0 +1,31 @@
+body{
+    padding: 7rem;
+    background: url(logoimg.webp) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 100px;
+    
+}
+::-webkit-input-placeholder{
+    color: black;
+    font-size: 15px;
+    border-width: 600cm;
+    
+   
+   
+}
+#btn-submit{
+   background-color: rgb(0, 162, 255);
+   size: 5
+   00px;
+}
